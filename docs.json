@@ -1,0 +1,88 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "almond",
+  "name": "Sparkix Technologies",
+  "logo": {
+    "light": "https://media.brand.dev/2b17bd39-d2d3-4365-b586-a7327867c442.png",
+    "dark": "https://media.brand.dev/2b17bd39-d2d3-4365-b586-a7327867c442.png"
+  },
+  "favicon": "https://media.brand.dev/790d56b4-0ae7-4be3-850d-3861d8761269.png",
+  "colors": {
+    "primary": "#2a61a0",
+    "light": "#84c7de"
+  },
+  "font": {
+    "headings": {
+      "family": "Inter"
+    },
+    "body": {
+      "family": "Inter"
+    }
+  },
+  "navbar": {
+    "primary": {
+      "type": "button",
+      "label": "Get in Touch",
+      "href": "https://sparkixtech.com"
+    }
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Overview",
+        "groups": [
+          {
+            "group": "Introduction",
+            "pages": [
+              "introduction",
+              "how-we-work",
+              "why-sparkix"
+            ]
+          },
+          {
+            "group": "Services",
+            "pages": [
+              "services/overview",
+              "services/ai-automation",
+              "services/enterprise-software",
+              "services/saas-development",
+              "services/web-mobile",
+              "services/it-consultancy"
+            ]
+          },
+          {
+            "group": "Our Process",
+            "pages": [
+              "process/ai-audit",
+              "process/engagement-model",
+              "process/technologies"
+            ]
+          },
+          {
+            "group": "Company",
+            "pages": [
+              "company/about",
+              "company/portfolio",
+              "company/clients"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Legal",
+        "groups": [
+          {
+            "group": "Policies",
+            "pages": [
+              "legal/privacy-policy",
+              "legal/terms-of-service"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "socials": {}
+  }
+}

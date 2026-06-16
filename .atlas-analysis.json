@@ -1,0 +1,85 @@
+{
+  "projectType": "general",
+  "projectName": "Sparkix Technologies",
+  "projectDescription": "Sparkix Technologies is an AI development company that builds custom AI solutions, automation systems, and intelligent assistants for enterprises, startups, and SMBs.",
+  "theme": "almond",
+  "primaryColor": "#2a61a0",
+  "lightColor": "#84c7de",
+  "darkColor": null,
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Overview",
+        "groups": [
+          {
+            "group": "Introduction",
+            "pages": [
+              "introduction",
+              "how-we-work",
+              "why-sparkix"
+            ]
+          },
+          {
+            "group": "Services",
+            "pages": [
+              "services/overview",
+              "services/ai-automation",
+              "services/enterprise-software",
+              "services/saas-development",
+              "services/web-mobile",
+              "services/it-consultancy"
+            ]
+          },
+          {
+            "group": "Our Process",
+            "pages": [
+              "process/ai-audit",
+              "process/engagement-model",
+              "process/technologies"
+            ]
+          },
+          {
+            "group": "Company",
+            "pages": [
+              "company/about",
+              "company/portfolio",
+              "company/clients"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Legal",
+        "groups": [
+          {
+            "group": "Policies",
+            "pages": [
+              "legal/privacy-policy",
+              "legal/terms-of-service"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Custom AI model development and machine learning integration",
+    "Intelligent automation and AI-powered workflow systems",
+    "Enterprise software development and SaaS platform creation",
+    "AI Audit process to identify high-impact opportunities",
+    "Web and mobile application engineering",
+    "UI/UX design for AI-powered products",
+    "IT consultancy and digital transformation advisory",
+    "SOC 2-aligned security practices",
+    "Ongoing support and model optimization post-delivery"
+  ],
+  "publicApiSurface": [
+    "AI Audit engagement",
+    "Custom AI model development",
+    "Enterprise software delivery",
+    "SaaS platform development",
+    "Web & mobile engineering",
+    "IT consultancy services",
+    "Contact and project inquiry process"
+  ]
+}
